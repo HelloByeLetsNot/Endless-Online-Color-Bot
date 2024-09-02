@@ -1,2 +1,2 @@
-# Endless-Online-Color-Bot
-A simple endless online color bot.
+# EOPHP2
+A modular bot for Endless Online
